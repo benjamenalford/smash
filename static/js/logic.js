@@ -1,5 +1,3 @@
-console.log(fighters);
-
 var table = d3.select("#fighters");
 var tableBody = table.select("tbody");
 
